@@ -42,6 +42,6 @@ Contributions to the Comms Lifeline Dashboard are welcome! If you have suggestio
 
 MIT License
 
-Thanks! -Jon Washington SWIC
+Thanks! -Jon | Washington SWIC
 
 ![2024-03-04_8-48-32](https://github.com/jdlee77/LifelineDashboard/assets/1298102/f426be52-f69c-4cbd-825c-a9e1f392c3dd)
