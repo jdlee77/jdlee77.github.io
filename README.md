@@ -16,7 +16,7 @@ To start using the Comms Lifeline Dashboard in your Adobe Connect meetings, foll
 
 ### Step 1: Download
 
-Click the green '<>Code' button and the Click 'Download .zip' from this GitHub repository. Ensure you **DO NOT EXTRACT** the ZIP file after downloading.
+Click the green `<>Code` button and the Click `Download .zip` from this GitHub repository. Ensure you **DO NOT EXTRACT** the ZIP file after downloading.
 
 ### Step 2: Prepare Adobe Connect (local app version or browser based)
 
